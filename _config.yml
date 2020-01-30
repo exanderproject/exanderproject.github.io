@@ -1,0 +1,13 @@
+# bundle exec jekyll serve
+
+title: The Exander Project
+copyright: "&copy; 2020 Elliott Slaughter"
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+markdown: kramdown
+theme: minima
+
+# configuration options for minima
+# https://github.com/jekyll/minima/blob/v2.5.1/README.md
+# https://pages.github.com/versions/
+show_excerpts: true
